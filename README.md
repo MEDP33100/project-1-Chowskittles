@@ -29,7 +29,7 @@ I listed the assets, layout of my page, and concept on Figma.
 
 ## Live Demo
 
-- Include a link to the live version of the project hosted on GitHub Pages.
+LINK: https://medp33100.github.io/project-1-Chowskittles/
 
 ## Credits
 
