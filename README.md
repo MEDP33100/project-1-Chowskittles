@@ -7,6 +7,8 @@ The purpose of this project was to take users through the life cycle of a butter
 
 Four images convey each stage: egg, caterpillar, cocoon, and fully-grown monarch butterfly. 
 
+Canva Presentation: https://www.canva.com/design/DAGhYg19hhQ/EBNARBuBps39YfvG9LDjgg/edit?utm_content=DAGhYg19hhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Figma Design
 
 LINK TO FIGMA: https://www.figma.com/design/hV0KPrX56Pb2FZzewVCiGM/Project-1?node-id=0-1&t=0jS5H9x6TOyUAtur-1
